@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1033737281695",
+    "project_id": "instagram-clone-52a91",
+    "storage_bucket": "instagram-clone-52a91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033737281695:android:765b9545751ef2b73b82aa",
+        "android_client_info": {
+          "package_name": "surajshekhar.com.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033737281695-sk08bgg920j61vatl3ufisgrdofhtmi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVM-4KbngSqPV2B4VqUu-nT6LICyNN3ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033737281695-sk08bgg920j61vatl3ufisgrdofhtmi4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033737281695-io316gl6j7j6e5e7nk5fpgh7jvu83k5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "surajshekhar.com.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
